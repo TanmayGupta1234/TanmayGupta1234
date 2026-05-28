@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Hi I'm Tanmay Gupta⚡
 Frontend Developer with an interest in Artificial Intelligence and innovative technologies.<br>I enjoy creating responsive web applications and learning new tools that solve real-world problems.<br>
 
 
