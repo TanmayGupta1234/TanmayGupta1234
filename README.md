@@ -15,8 +15,6 @@ Frontend Developer with an interest in Artificial Intelligence and innovative te
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=TanmayGupta1234&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/gtanmay447@okicici) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
